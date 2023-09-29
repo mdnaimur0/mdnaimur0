@@ -24,3 +24,4 @@
     </td>
   </tr>
 </table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaimur0&bg_color=00000000&hide_border=true&color=cb16fd&line=cb16fd&theme=react-dark" width="100%"/>
