@@ -1,5 +1,5 @@
 <h1 align="center"> <a href ="https://mdnaimur0.github.io/">Md. Naimur Rahman</a></h1>
-<h4 align="center">Mobile Application Developer | Python Programmer | Web Developer | Problem Solver | Tech Enthusiast</h4>
+<p align="center">Mobile Application Developer | Python Programmer | Web Developer | Problem Solver | Tech Enthusiast</p>
 <p align="center"><img src="https://raw.githubusercontent.com/mdnaimur0/mdnaimur0/main/coding.gif"/></p>
 <p align="center">
 Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"><br>I'm a full-stack mobile application developer based in Bangladesh.<br> I've been crafting native Android applications since 2020 and have embraced cross-platform application development using Flutter since 2022.<br> My experience extends to backend development, where I've worked on various projects using Python's Flask framework as well as Node.js with Express.js.<br>
