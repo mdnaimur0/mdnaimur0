@@ -6,7 +6,7 @@ Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/mast
 🚀 Currently, I am focused on expanding my skills in web development.
 </p>
 <p align="center">You can learn more about what I do by visiting my portfolio website. 🌐</p>
-<h3 align="center"><a href="https://mdnaimur0.github.io/">Visit Portfolio</a></h3>
+<h3 align="center"><a href="https://mdnaimur0.github.io/" target="_blank">Visit Portfolio</a></h3>
 <br>
 <h2 align="center">Connect with me</h2>
 <p align="center">
