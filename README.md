@@ -1,7 +1,9 @@
 <h1 align="center"> <a href ="https://mdnaimur0.github.io/">Md. Naimur Rahman</a></h1>
 <p align="center">Mobile Application Developer | Python Programmer | Web Developer | Problem Solver | Tech Enthusiast</p>
-<br>
-<h3 align="center">A full-stack mobile application developer from Bangladesh.</h3>
+<img src="https://raw.githubusercontent.com/mdnaimur0/mdnaimur0/main/coding.gif"/>
+<p align="center">
+  
+</p>
 <br>
 <h2 align="center">Connect with me</h2>
 <p align="center">
