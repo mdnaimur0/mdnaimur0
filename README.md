@@ -30,11 +30,11 @@ Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/mast
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaimur0&layout=compact&show_icons=true&title_color=cb16fd&text_color=ffffff&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaimur0&layout=compact&show_icons=true&title_color=cb16fd&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=mdnaimur0&show_icons=true&title_color=cb16fd&text_color=ffffff&bg_color=00000000&hide_border=true&icon_color=cb16fd&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=mdnaimur0&show_icons=true&title_color=cb16fd&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=cb16fd&hide_title=true&count_private=true" />
     </td>
   </tr>
 </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaimur0&bg_color=00000000&hide_border=true&color=cb16fd&line=cb16fd&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaimur0&bg_color=00000000&hide_border=true&color=cb16fd&line=cb16fd&theme=react-dark&point=9f9f9f" width="100%"/>
