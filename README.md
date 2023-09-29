@@ -1,12 +1,14 @@
 <h1 align="center"> <a href ="https://mdnaimur0.github.io/">Md. Naimur Rahman</a></h1>
-<p align="center">Mobile Application Developer | Python Programmer | Web Developer | Problem Solver | Tech Enthusiast</p>
+<h4 align="center">Mobile Application Developer | Python Programmer | Web Developer | Problem Solver | Tech Enthusiast</h4>
 <p align="center"><img src="https://raw.githubusercontent.com/mdnaimur0/mdnaimur0/main/coding.gif"/></p>
-<br>
+<p align="center">
+Hello there 👋<br>I'm a full-stack mobile application developer from Bangladesh
+</p>
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://linkedin.com/in/mdnaimur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdnaimur" height="30" width="40" /></a>
-<a href="https://fb.com/mdnaimur020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdnaimur020" height="30" width="40" /></a>
-<a href="https://instagram.com/its_naimur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_naimur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdnaimur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdnaimur" height="30" width="40" /></a>
+<a href="https://fb.com/mdnaimur020" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdnaimur020" height="30" width="40" /></a>
+<a href="https://instagram.com/its_naimur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_naimur" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="center">Languages & Tools</h2>
