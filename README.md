@@ -10,15 +10,15 @@ Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/mast
 <br>
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://mdnaimur0.github.io/#contact" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mdnaimur0/mdnaimur0/main/website.png" alt="https://mdnaimur0.github.io" height="30" width="30" /></a>
+<a href="https://mdnaimur0.github.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mdnaimur0/mdnaimur0/main/website.png" alt="https://mdnaimur0.github.io" height="30" width="30" /></a>
   &nbsp;&nbsp;
-<a href="https://linkedin.com/in/mdnaimur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdnaimur" height="32" width="32" /></a>
+<a href="https://linkedin.com/in/mdnaimur0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdnaimur" height="32" width="32" /></a>
 &nbsp;&nbsp;
 <a href="mailto:mdnaimur020@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mdnaimur0/mdnaimur0/main/mail.png" alt="mdnaimur020@gmail.com" height="27" width="28" /></a>
   &nbsp;&nbsp;
-<a href="https://fb.com/mdnaimur020" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdnaimur020" height="30" width="40" /></a>
+<a href="https://fb.com/mdnaimur0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdnaimur020" height="30" width="40" /></a>
   &nbsp;&nbsp;
-<a href="https://instagram.com/its_naimur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_naimur" height="30" width="40" /></a>
+<a href="https://instagram.com/mdnaimur0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_naimur" height="30" width="40" /></a>
   &nbsp;
 <a href="https://t.me/its_naimur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mdnaimur0/mdnaimur0/main/telegram.png" alt="its_naimur" height="32" width="32" /></a>
 </p>
