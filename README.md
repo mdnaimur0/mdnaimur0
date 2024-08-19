@@ -16,7 +16,7 @@ Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/mast
 &nbsp;&nbsp;
 <a href="mailto:mdnaimur020@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mdnaimur0/mdnaimur0/main/mail.png" alt="mdnaimur020@gmail.com" height="27" width="28" /></a>
   &nbsp;&nbsp;
-<a href="https://fb.com/mdnaimur0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdnaimur020" height="30" width="40" /></a>
+<a href="https://fb.com/mdnaimurr0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdnaimur020" height="30" width="40" /></a>
   &nbsp;&nbsp;
 <a href="https://instagram.com/mdnaimur0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_naimur" height="30" width="40" /></a>
   &nbsp;
