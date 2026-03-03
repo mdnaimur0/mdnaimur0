@@ -1,11 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cb16fd&height=130&section=header" width="100%"/>
-
 <div align="center">
   <h1>Hi, I'm Naimur Rahman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/></h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=CB16FD&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Scalable+APIs+%7C+Python+%7C+FastAPI+%7C+Flask+%7C+Node.js;React+%7C+Next.js+%7C+Flutter+%7C+Native+Android" alt="Typing SVG"/>
 </div>
-
-<br/>
 
 ## 👨‍💻 About Me
 
@@ -89,5 +85,3 @@ I build modern web applications using **React and Next.js**, and develop cross-p
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cb16fd&height=100&section=footer" width="100%"/>
