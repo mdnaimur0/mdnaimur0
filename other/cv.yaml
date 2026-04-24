@@ -1,0 +1,304 @@
+cv:
+  name: Md. Naimur Rahman
+  location: Dhaka, Bangladesh
+  email: mdnaimur020@gmail.com
+  phone: "+8801940289890"
+  website: https://mdnaimurrahman.com
+  social_networks:
+    - network: GitHub
+      username: mdnaimur0
+    - network: LinkedIn
+      username: mdnaimur0
+
+  sections:
+    summary:
+      - Backend-focused full-stack developer with 5+ years of hands-on
+        experience building web and mobile applications. Proficient in Python
+        (FastAPI, Flask), Node.js, React, Next.js and Flutter. Experienced in
+        cloud services (Firebase, Supabase, Appwrite), REST API design, and
+        system design fundamentals. Currently pursuing a B.Sc. in Computer
+        Science while working professionally as a remote software developer.
+
+    technical_skills:
+      - label: Languages
+        details: Python, JavaScript, TypeScript, Java, Dart, C, C++, HTML, CSS
+      - label: Backend
+        details: FastAPI, Flask, Node.js, Express.js, REST API Design
+      - label: Frontend & Mobile
+        details: React, Next.js, Flutter, Android (Native), Tailwind CSS
+      - label: Databases
+        details: PostgreSQL, MySQL, SQLite, MongoDB, Firebase Realtime Database
+      - label: Cloud & DevOps
+        details: Firebase, Supabase, Appwrite, Git, GitHub
+      - label: Tools & Design
+        details: Figma, VS Code, Zed
+
+    education:
+      - institution: Southeast University
+        area: Computer Science and Engineering
+        degree: B.Sc.
+        start_date: 2025-05
+        end_date: present
+        location: Dhaka, Bangladesh
+
+      - institution: Notre Dame College
+        area: Science
+        degree: Higher Secondary Certificate (HSC)
+        start_date: 2022-01
+        end_date: 2023-12
+        location: Dhaka, Bangladesh
+        highlights:
+          - "Result: GPA 5.00 / 5.00"
+
+      - institution: Melandah Umir Uddin Pilot High School
+        area: Science
+        degree: Secondary School Certificate (SSC)
+        start_date: 2016-01
+        end_date: 2021-02
+        location: Jamalpur, Bangladesh
+        highlights:
+          - "Result: GPA 5.00 / 5.00"
+
+    experience:
+      - company: Yobo AI
+        position: Software Developer
+        start_date: 2024
+        end_date: present
+        location: Remote
+        highlights:
+          - Design and develop backend services and REST APIs using Python
+            (FastAPI) and Node.js (Express.js) deployed on cloud infrastructure
+          - Implement authentication and authorization systems across FastAPI
+            and React frontends
+          - Integrate real-time features using Firebase Realtime Database,
+            including presence tracking for live communication sessions
+          - Collaborate in daily standups and sprint cycles as part of a
+            distributed engineering team
+
+      - company: Notre Dame Information Technology Club (NDITC)
+        position: Secretary, Department of Web & App Development
+        start_date: 2023-04
+        end_date: 2024-06
+        location: Dhaka, Bangladesh
+        highlights:
+          - Built the official Flutter mobile application to engage 300+ club
+            members in events and activities
+          - Led a web development team to deliver the official club website,
+            improving the club's online presence
+          - Architected and developed the official NDITC REST API using Python
+            Flask and SQLite, serving both the mobile app and website
+          - Developed the API admin panel using React and Bootstrap, enabling
+            non-technical staff to manage content independently
+
+    projects:
+      - name: "[NDITC Official Mobile
+          Application](https://github.com/nditc/nditc_mobile_app)"
+        date: "2023"
+        highlights:
+          - Cross-platform mobile app built with Flutter; backend powered by
+            Python Flask REST API and SQLite
+          - Served as the primary engagement platform for NDITC members
+
+      - name: "[AskMe Telegram Bot](https://github.com/mdnaimur0/askme_telegram_bot_py)"
+        date: "2023"
+        highlights:
+          - AI-powered chatbot built with Python and the ChatGPT API, capable of
+            responding to natural-language user queries
+
+      - name: "[AIDE
+          Assistant](https://apkpure.net/aide-assistant/com.mdinnovation.aideas\
+          sistant)"
+        date: "2021"
+        highlights:
+          - Native Android application (Java) published on APKPure to assist
+            developers using the AIDE Android IDE
+          - Gained organic user traction post-publication
+
+      - name: OffLearn GK
+        date: "2021"
+        highlights:
+          - Offline-first Android application for general knowledge learning,
+            built with Java and SQLite
+          - Designed for low-connectivity environments
+
+      - name: Webpage to PDF Converter
+        date: "2021"
+        highlights:
+          - Native Android application that renders and converts web pages to
+            PDF using Android's WebView and PdfDocument APIs
+
+design:
+  theme: sb2nov
+  page:
+    size: us-letter
+    top_margin: 0.7in
+    bottom_margin: 0.7in
+    left_margin: 0.7in
+    right_margin: 0.7in
+    show_footer: true
+    show_top_note: false
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    line_spacing: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+    font_family:
+      body: New Computer Modern
+      name: Raleway
+      headline: New Computer Modern
+      connections: DejaVu Sans Mono
+      section_titles: New Computer Modern
+    font_size:
+      body: 10pt
+      name: 30pt
+      headline: 10pt
+      connections: 10pt
+      section_titles: 1.4em
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+  links:
+    underline: false
+    show_external_link_icon: true
+  header:
+    alignment: center
+    photo_width: 3.5cm
+    photo_position: left
+    photo_space_left: 0.4cm
+    photo_space_right: 0.4cm
+    space_below_name: 0.7cm
+    space_below_headline: 0.7cm
+    space_below_connections: 0.7cm
+    connections:
+      phone_number_format: international
+      hyperlink: true
+      show_icons: true
+      display_urls_instead_of_usernames: false
+      separator: •
+      space_between_connections: 0.6cm
+  section_titles:
+    type: with_full_line
+    line_thickness: 0.3pt
+    space_above: 0.5cm
+    space_below: 0.3cm
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1.2em
+    space_between_text_based_entries: 0.3em
+    show_time_spans_in: []
+  entries:
+    date_and_location_width: 4.15cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: false
+    degree_width: 1cm
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: ◦
+      nested_bullet: ◦
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+  templates:
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**
+        *DEGREE* *in* *AREA*
+        SUMMARY
+        HIGHLIGHTS
+      degree_column:
+      date_and_location_column: |-
+        *LOCATION*
+        *DATE*
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        *LOCATION*
+        *DATE*
+    experience_entry:
+      main_column: |-
+        **POSITION**
+        *COMPANY*
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        *LOCATION*
+        *DATE*
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+
+locale:
+  language: english
+  last_updated: Last updated in
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  phrases:
+    degree_with_area: DEGREE in AREA
+  month_abbreviations:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  month_names:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+
+settings:
+  current_date: today
+  bold_keywords: []
+  pdf_title: NAME - CV
