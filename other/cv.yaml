@@ -12,12 +12,11 @@ cv:
 
   sections:
     summary:
-      - Backend-focused full-stack developer with 5+ years of hands-on
+      - Backend-focused full-stack developer with 4+ years of hands-on
         experience building web and mobile applications. Proficient in Python
         (FastAPI, Flask), Node.js, React, Next.js and Flutter. Experienced in
         cloud services (Firebase, Supabase, Appwrite), REST API design, and
-        system design fundamentals. Currently pursuing a B.Sc. in Computer
-        Science while working professionally as a remote software developer.
+        system design fundamentals.
 
     technical_skills:
       - label: Languages
@@ -32,7 +31,6 @@ cv:
         details: Firebase, Supabase, Appwrite, Git, GitHub
       - label: Tools & Design
         details: Figma, VS Code, Zed
-
     education:
       - institution: Southeast University
         area: Computer Science and Engineering
@@ -40,6 +38,8 @@ cv:
         start_date: 2025-05
         end_date: present
         location: Dhaka, Bangladesh
+        highlights:
+          - "Current Result: CGPA 4.00"
 
       - institution: Notre Dame College
         area: Science
@@ -50,31 +50,31 @@ cv:
         highlights:
           - "Result: GPA 5.00 / 5.00"
 
-      - institution: Melandah Umir Uddin Pilot High School
-        area: Science
-        degree: Secondary School Certificate (SSC)
-        start_date: 2016-01
-        end_date: 2021-02
-        location: Jamalpur, Bangladesh
-        highlights:
-          - "Result: GPA 5.00 / 5.00"
-
     experience:
       - company: Yobo AI
         position: Software Developer
-        start_date: 2024
-        end_date: present
-        location: Remote
+        start_date: 2024-10
+        end_date: 2025-05
+        location: Ontario, Canada (Remote)
         highlights:
-          - Design and develop backend services and REST APIs using Python
-            (FastAPI) and Node.js (Express.js) deployed on cloud infrastructure
-          - Implement authentication and authorization systems across FastAPI
-            and React frontends
-          - Integrate real-time features using Firebase Realtime Database,
-            including presence tracking for live communication sessions
-          - Collaborate in daily standups and sprint cycles as part of a
-            distributed engineering team
+          - Architected and built a production-ready AI Voice Agent platform from scratch, developing backend APIs, frontend applications, and low-latency pipelines for AI interactions and automated order processing.
+          - Developed responsive restaurant and administrative dashboards using React, Tailwind CSS, and shadcn/ui, featuring multi-tenant management, call analytics, live monitoring, and operational workflows.
+          - Integrated Firebase Realtime Database and Twilio to support real-time order tracking, status updates, receipt printing, and seamless call transfers between AI agents and restaurant staff.
+          - Built a menu import system for Uber Eats using API integrations and fallback web-scraping pipelines to handle complex menu structures.
+          - Led the migration from Firestore to Supabase (PostgreSQL), improving data integrity, scalability, and maintainability.
 
+      - company: Yobo AI
+        position: Software Developer Intern
+        start_date: 2024-10
+        end_date: 2025-04
+        location: Ontario, Canada (Remote)
+        highlights:
+          - Migrated a large-format kiosk app from vanilla JS to React, modernizing order-taking and customer queries.
+          - Delivered new customer-facing features post-migration to enhance the kiosk experience.
+          - Optimized the React-based client dashboard for kiosk configuration, boosting usability and performance.
+          - Added dashboard features to streamline configuration workflows.
+
+    leadership:
       - company: Notre Dame Information Technology Club (NDITC)
         position: Secretary, Department of Web & App Development
         start_date: 2023-04
@@ -91,41 +91,66 @@ cv:
             non-technical staff to manage content independently
 
     projects:
-      - name: "[NDITC Official Mobile
-          Application](https://github.com/nditc/nditc_mobile_app)"
+      - name: "[Roots AI](https://github.com/mdnaimur0/RootsAI)"
+        date: 2026-06
+        highlights:
+          - Built the MVP using Next.js 16 and Gemini, featuring a "Concept MRI" diagnostic engine that identifies knowledge gaps and maps unmet prerequisite concepts.
+          - Developed multimodal learning features, including image-to-problem conversion and voice-based Feynman Technique assessments to verify student mastery.
+
+      - name: "[Landsat Lens](https://github.com/mdnaimur0/Landsat-Lens)"
+        date: 2025-11
+        highlights:
+          - Developed a real-time satellite tracking and visualization platform using React, TypeScript, and Flask, integrating NASA/USGS M2M APIs, interactive GIS overlays (Leaflet/ESRI), and high-resolution reflectance data visualizations.
+          - Co-authored a predictive notification system using Python and Skyfield to perform orbital mechanics calculations and alert users of upcoming satellite overpasses.
+
+      - name: "[NDITC Official Mobile Application](https://github.com/nditc/nditc_mobile_app)"
         date: "2023"
         highlights:
-          - Cross-platform mobile app built with Flutter; backend powered by
-            Python Flask REST API and SQLite
-          - Served as the primary engagement platform for NDITC members
+          - Engineered the official cross-platform mobile application using
+            Flutter, enabling real-time event tracking and member engagement for
+            a 300+ person organization.
+          - Architected and developed a supporting REST API using Python (Flask)
+            and SQLite to handle announcements, executive profiles, and project
+            showcases.
+          - Integrated Firebase Cloud Messaging (FCM) to deliver critical push
+            notifications, improving member response time for club activities.
 
-      - name: "[AskMe Telegram Bot](https://github.com/mdnaimur0/askme_telegram_bot_py)"
-        date: "2023"
-        highlights:
-          - AI-powered chatbot built with Python and the ChatGPT API, capable of
-            responding to natural-language user queries
-
-      - name: "[AIDE
-          Assistant](https://apkpure.net/aide-assistant/com.mdinnovation.aideas\
-          sistant)"
+      - name: "[AIDE Assistant](https://apkpure.net/aide-assistant/com.mdinnovation.aideassistant)"
         date: "2021"
         highlights:
-          - Native Android application (Java) published on APKPure to assist
-            developers using the AIDE Android IDE
-          - Gained organic user traction post-publication
+          - Created and published a native Android utility (Java) that gained
+            significant organic user traction by solving specific mobile
+            development pain points.
+          - Designed specialized tools for on-device code manipulation and
+            development workflow optimization, specifically for low-resource
+            environments.
+          - Managed the end-to-end lifecycle from initial prototyping to public
+            release and maintenance on third-party application stores.
 
-      - name: OffLearn GK
-        date: "2021"
+      - name: "[Sudo WhatsApp Bot](https://github.com/mdnaimur0/sudo-whatsapp-bot)"
+        date: 2026-01
         highlights:
-          - Offline-first Android application for general knowledge learning,
-            built with Java and SQLite
-          - Designed for low-connectivity environments
+          - Developed a modular WhatsApp automation engine using TypeScript and
+            whatsapp-web.js, featuring a plugin-based architecture for 20+
+            utility commands.
+          - Built a multi-provider AI fallback system integrating OpenAI and
+            OpenRouter to maintain 99.9% availability for natural language
+            processing features.
+          - Implemented automated scheduling for university-specific reminders
+            and Islamic prayer times using cron-based systems and external API
+            integrations.
 
-      - name: Webpage to PDF Converter
-        date: "2021"
-        highlights:
-          - Native Android application that renders and converts web pages to
-            PDF using Android's WebView and PdfDocument APIs
+      # - name: "[Amazon Niche Finder](https://github.com/mdnaimur0/amazon-niche-finder)"
+      #   date: 2026-04
+      #   highlights:
+      #     - Engineered a high-concurrency Python CLI tool using Playwright and
+      #       BeautifulSoup4, reducing manual market research time by over 90%.
+      #     - Developed a multi-factor scoring algorithm to rank keyword
+      #       profitability based on competition metrics, sales trends, and Google
+      #       Trends data.
+      #     - Implemented recursive keyword exploration and semantic clustering to
+      #       generate metric-backed "Profitability Rationales" for SEO
+      #       optimization.
 
 design:
   theme: sb2nov
@@ -219,13 +244,13 @@ design:
       space_between_items: 0cm
       space_between_bullet_and_text: 0.5em
   templates:
-    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
-    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    footer: "*NAME -- PAGE_NUMBER/TOTAL_PAGES*"
+    top_note: "*LAST_UPDATED CURRENT_DATE*"
     single_date: MONTH_ABBREVIATION YEAR
     date_range: START_DATE – END_DATE
     time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
     one_line_entry:
-      main_column: '**LABEL:** DETAILS'
+      main_column: "**LABEL:** DETAILS"
     education_entry:
       main_column: |-
         **INSTITUTION**
