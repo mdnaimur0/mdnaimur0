@@ -91,7 +91,7 @@ cv:
             non-technical staff to manage content independently
 
     projects:
-      - name: "[Roots AI](https://github.com/mdnaimur0/RootsAI)"
+      - name: Roots AI
         date: 2026-06
         highlights:
           - Built the MVP using Next.js 16 and Gemini, featuring a "Concept MRI" diagnostic engine that identifies knowledge gaps and maps unmet prerequisite concepts.
