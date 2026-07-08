@@ -53,8 +53,8 @@ cv:
     experience:
       - company: Yobo AI
         position: Software Developer
-        start_date: 2024-10
-        end_date: 2025-05
+        start_date: 2025-05
+        end_date: 2026-03
         location: Ontario, Canada (Remote)
         highlights:
           - Architected and built a production-ready AI Voice Agent platform from scratch, developing backend APIs, frontend applications, and low-latency pipelines for AI interactions and automated order processing.
