@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 7,
-    day: 8,
+    day: 22,
   ),
 )
 
@@ -241,6 +241,57 @@ Backend-focused full-stack developer with 4+ years of hands-on experience buildi
 
 #regular-entry(
   [
+    #strong[#link("https://github.com/mdnaimur0/robo-arm-simulator")[Robo Arm Simulator]]
+
+  ],
+  [
+    #emph[June 2026]
+
+  ],
+  main-column-second-row: [
+    - Built a browser-based 6-DOF robotic arm simulator and control suite using TypeScript, featuring real-time inverse kinematics and interactive 3D visualization.
+
+    - Designed an intuitive control panel for manipulating joint angles, end-effector positioning, and pre-programmed motion sequences.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[#link("https://github.com/mdnaimur0/office-energy-monitor")[Office Energy Monitor]]
+
+  ],
+  [
+    #emph[Apr 2026]
+
+  ],
+  main-column-second-row: [
+    - Developed a real-time office energy monitoring system with a live web dashboard and Discord bot, tracking electrical devices (fans, lights) across all office rooms.
+
+    - Built the monitoring backend and bot integration using TypeScript, enabling instant status queries and alerts through both web UI and Discord commands.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[#link("https://github.com/mdnaimur0/product-review-hub")[Product Review Hub]]
+
+  ],
+  [
+    #emph[May 2026]
+
+  ],
+  main-column-second-row: [
+    - Built a full-stack product review platform using Next.js, FastAPI, and PostgreSQL, enabling users to browse products, submit star ratings, and write reviews.
+
+    - Implemented an admin catalog management system with role-based access control and a responsive review moderation workflow.
+
+  ],
+)
+
+#regular-entry(
+  [
     #strong[Roots AI]
 
   ],
@@ -326,6 +377,25 @@ Backend-focused full-stack developer with 4+ years of hands-on experience buildi
     - Built a multi-provider AI fallback system integrating OpenAI and OpenRouter to maintain 99.9\% availability for natural language processing features.
 
     - Implemented automated scheduling for university-specific reminders and Islamic prayer times using cron-based systems and external API integrations.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[#link("https://github.com/mdnaimur0/amazon-niche-finder")[Amazon Niche Finder]]
+
+  ],
+  [
+    #emph[Apr 2026]
+
+  ],
+  main-column-second-row: [
+    - Engineered a high-concurrency Python CLI tool using Playwright and BeautifulSoup4, reducing manual market research time by over 90\%.
+
+    - Developed a multi-factor scoring algorithm to rank keyword profitability based on competition metrics, sales trends, and Google Trends data.
+
+    - Implemented recursive keyword exploration and semantic clustering to generate metric-backed \"Profitability Rationales\" for SEO optimization.
 
   ],
 )
