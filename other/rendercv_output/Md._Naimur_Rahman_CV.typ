@@ -6,7 +6,7 @@
   name: "Md. Naimur Rahman",
   title: "Md. Naimur Rahman - CV",
   footer: context { [#emph[Md. Naimur Rahman -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in July 2026] ],
+  top-note: [ #emph[Last updated in Sept 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 7,
-    day: 22,
+    month: 9,
+    day: 13,
   ),
 )
 
@@ -100,17 +100,17 @@
 
 == Summary
 
-Backend-focused full-stack developer with 4+ years of hands-on experience building web and mobile applications. Proficient in Python (FastAPI, Flask), Node.js, React, Next.js and Flutter. Experienced in cloud services (Firebase, Supabase, Appwrite), REST API design, and system design fundamentals.
+Backend-focused full-stack developer with 4+ years of hands-on experience building web and mobile applications. Proficient in Python (FastAPI, Flask), Node.js, React, Next.js and Flutter. Experienced in cloud services (Firebase, Supabase, Appwrite), REST API design and system design fundamentals.
 
 == Technical Skills
 
 #strong[Languages:] Python, JavaScript, TypeScript, Java, Dart, C, C++, HTML, CSS
 
-#strong[Backend:] FastAPI, Flask, Node.js, Express.js, REST API Design
+#strong[Backend:] FastAPI, Flask, Node.js, Express.js, NestJS, REST API Design
 
 #strong[Frontend & Mobile:] React, Next.js, Flutter, Android (Native), Tailwind CSS
 
-#strong[Databases:] PostgreSQL, MySQL, SQLite, MongoDB, Firebase Realtime Database
+#strong[Databases:] PostgreSQL, MySQL, SQLite, MongoDB, Firebase Realtime Database, Firestore
 
 #strong[Cloud & DevOps:] Firebase, Supabase, Appwrite, Git, GitHub
 
@@ -211,6 +211,27 @@ Backend-focused full-stack developer with 4+ years of hands-on experience buildi
 )
 
 == Leadership
+
+#regular-entry(
+  [
+    #strong[Wing Member, Research & Development Wing]
+
+    #emph[IEEE Computer Society Southeast University Student Branch Chapter]
+
+  ],
+  [
+    #emph[Dhaka, Bangladesh]
+
+    #emph[Aug 2026 – present]
+
+  ],
+  main-column-second-row: [
+    - Architected and developed a full-stack event management platform with Next.js, PostgreSQL, and Prisma, streamlining event registration, participation tracking, judging, and feedback collection.
+
+    - Engineering a paperless national-level event management system with real-time judging, scoring, and feedback workflows to improve operational efficiency and participant experience.
+
+  ],
+)
 
 #regular-entry(
   [

@@ -15,18 +15,18 @@ cv:
       - Backend-focused full-stack developer with 4+ years of hands-on
         experience building web and mobile applications. Proficient in Python
         (FastAPI, Flask), Node.js, React, Next.js and Flutter. Experienced in
-        cloud services (Firebase, Supabase, Appwrite), REST API design, and
+        cloud services (Firebase, Supabase, Appwrite), REST API design and
         system design fundamentals.
 
     technical_skills:
       - label: Languages
         details: Python, JavaScript, TypeScript, Java, Dart, C, C++, HTML, CSS
       - label: Backend
-        details: FastAPI, Flask, Node.js, Express.js, REST API Design
+        details: FastAPI, Flask, Node.js, Express.js, NestJS, REST API Design
       - label: Frontend & Mobile
         details: React, Next.js, Flutter, Android (Native), Tailwind CSS
       - label: Databases
-        details: PostgreSQL, MySQL, SQLite, MongoDB, Firebase Realtime Database
+        details: PostgreSQL, MySQL, SQLite, MongoDB, Firebase Realtime Database, Firestore
       - label: Cloud & DevOps
         details: Firebase, Supabase, Appwrite, Git, GitHub
       - label: Tools & Design
@@ -75,6 +75,14 @@ cv:
           - Added dashboard features to streamline configuration workflows.
 
     leadership:
+      - company: IEEE Computer Society Southeast University Student Branch Chapter
+        position: Wing Member, Research & Development Wing
+        start_date: 2026-08
+        end_date: present
+        location: Dhaka, Bangladesh
+        highlights:
+          - Architected and developed a full-stack event management platform with Next.js, PostgreSQL, and Prisma, streamlining event registration, participation tracking, judging, and feedback collection.
+          - Engineering a paperless national-level event management system with real-time judging, scoring, and feedback workflows to improve operational efficiency and participant experience.
       - company: Notre Dame Information Technology Club (NDITC)
         position: Secretary, Department of Web & App Development
         start_date: 2023-04

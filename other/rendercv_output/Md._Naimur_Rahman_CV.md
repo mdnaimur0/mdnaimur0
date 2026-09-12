@@ -9,16 +9,16 @@
 
 
 # Summary
-Backend-focused full-stack developer with 4+ years of hands-on experience building web and mobile applications. Proficient in Python (FastAPI, Flask), Node.js, React, Next.js and Flutter. Experienced in cloud services (Firebase, Supabase, Appwrite), REST API design, and system design fundamentals.
+Backend-focused full-stack developer with 4+ years of hands-on experience building web and mobile applications. Proficient in Python (FastAPI, Flask), Node.js, React, Next.js and Flutter. Experienced in cloud services (Firebase, Supabase, Appwrite), REST API design and system design fundamentals.
 
 # Technical Skills
 **Languages:** Python, JavaScript, TypeScript, Java, Dart, C, C++, HTML, CSS
 
-**Backend:** FastAPI, Flask, Node.js, Express.js, REST API Design
+**Backend:** FastAPI, Flask, Node.js, Express.js, NestJS, REST API Design
 
 **Frontend & Mobile:** React, Next.js, Flutter, Android (Native), Tailwind CSS
 
-**Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase Realtime Database
+**Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase Realtime Database, Firestore
 
 **Cloud & DevOps:** Firebase, Supabase, Appwrite, Git, GitHub
 
@@ -89,6 +89,20 @@ Backend-focused full-stack developer with 4+ years of hands-on experience buildi
 
 
 # Leadership
+## **Wing Member, Research & Development Wing**
+
+*Dhaka, Bangladesh*
+
+*Aug 2026 – present*
+
+*IEEE Computer Society Southeast University Student Branch Chapter*
+
+- Architected and developed a full-stack event management platform with Next.js, PostgreSQL, and Prisma, streamlining event registration, participation tracking, judging, and feedback collection.
+
+- Engineering a paperless national-level event management system with real-time judging, scoring, and feedback workflows to improve operational efficiency and participant experience.
+
+
+
 ## **Secretary, Department of Web & App Development**
 
 *Dhaka, Bangladesh*
